@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>DisCloud Docs</title>
-    <link href="https://discloud-docs.github.io/info/feed.xml" rel="self" />
-    <link href="https://discloud-docs.github.io/info" />
-    <updated>2019-10-05T05:02:34-07:00</updated>
+    <link href="https://discloud-docs.github.io/feed.xml" rel="self" />
+    <link href="https://discloud-docs.github.io" />
+    <updated>2020-08-01T02:14:05-07:00</updated>
     <author>
         <name>ClearlyElevated</name>
     </author>
-    <id>https://discloud-docs.github.io/info</id>
+    <id>https://discloud-docs.github.io</id>
 
     <entry>
         <title>FAQ</title>
         <author>
             <name>ClearlyElevated</name>
         </author>
-        <link href="https://discloud-docs.github.io/info/faq/"/>
-        <id>https://discloud-docs.github.io/info/faq/</id>
+        <link href="https://discloud-docs.github.io/faq/"/>
+        <id>https://discloud-docs.github.io/faq/</id>
 
         <updated>2019-10-05T04:44:10-07:00</updated>
             <summary>

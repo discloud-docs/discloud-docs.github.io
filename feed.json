@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "DisCloud Docs",
     "description": "",
-    "home_page_url": "https://discloud-docs.github.io/info",
-    "feed_url": "https://discloud-docs.github.io/info/feed.json",
+    "home_page_url": "https://discloud-docs.github.io",
+    "feed_url": "https://discloud-docs.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "ClearlyElevated"
     },
     "items": [
         {
-            "id": "https://discloud-docs.github.io/info/faq/",
-            "url": "https://discloud-docs.github.io/info/faq/",
+            "id": "https://discloud-docs.github.io/faq/",
+            "url": "https://discloud-docs.github.io/faq/",
             "title": "FAQ",
             "summary": " How do i get my bot ID?You can get your bot ID by going to Discord Developer Portal. Click on your application, and under Client ID, click Copy. Or simply going to your bot client/account and select the options button and click copy ID&hellip;",
             "content_html": "<br>\n<blockquote><span style=\"text-decoration: underline;\"><strong>How do i get my bot ID?</strong></span></blockquote>\n<strong>You can get your bot ID by going to Discord Developer Portal. Click on your application, and under Client ID, click Copy. Or simply going to your bot client/account and select the options button and click copy ID</strong><br><br><code>Example Photo:</code> https://imgur.com/a/1OTewM8<br><hr>\n<blockquote><span style=\"text-decoration: underline;\"><strong>How to zip my files?</strong></span></blockquote>\n<br><code>Windows:</code> <strong>Select the required files (said in the tutorials), right-click on them, click Send To, and Click Compress Folder.</strong><br><br><code>Linux:</code> <strong>Select the required files (said in the tutorials), right click on them, click Compress and select .zip.</strong><br><hr>\n<blockquote>The main file is the one you use to turn on your bot: What is my \"Main\" Bot File?</blockquote>\n<br><strong>Javascript: Some bot creation software, such as Discord Bot Maker &amp; Discord Bot Controls have a default main file already set, which is: bot.js.</strong><br><strong>Bots coded by hand (or not made with a generator will more then likely have a index.js or botname.js depending what you specified when you wrote the code.</strong><br><br><strong>Python: when running the command python MainFile.py</strong><br><strong>or by right-clicking and then RUN in PyCharm.</strong><br><br><br><strong>Java: The main file is the one you use to turn on your bot: when executing the command java -jar MainFile.jar or by double-clicking on MainProfile.jar</strong><br><br><br><strong>The name \"MainFile\" Is the file in the situation described, which varies from person to person as you can enter any name you like, so consider your method of turning on the bot against the</strong><br><strong>situations shown to know the main file.</strong><br><br><hr>\n<blockquote>What payment method is used for DisCloud?</blockquote>\n<strong>For both payments for service. Or donations we currently use paypal.</strong><br><br><hr><br>",
